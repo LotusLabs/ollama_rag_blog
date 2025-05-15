@@ -7,6 +7,8 @@ This project demonstrates how to set up a Retrieval-Augmented Generation (RAG) p
 
 With this setup, you can ingest PDF or text documents and chat with them interactively.
 
+![](imgs/local_rag_gif.gif)
+
 ## Table of Contents
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
